@@ -2,5 +2,6 @@
 
 /html folder/**/*.html
 
-/html folder/* 
-!/html folder/1.html
+
+/html folder/*
+!/html folder/5.html

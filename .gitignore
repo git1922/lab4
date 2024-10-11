@@ -1,0 +1,6 @@
+/html folder/*.html
+
+/html folder/**/*.html
+
+/html folder/* 
+!/html folder/1.html
